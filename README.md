@@ -4,4 +4,4 @@
 
 2. cd into the directory and RUN npm install
 
-3.RUN react-native run-android
+3. RUN react-native run-android
